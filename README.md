@@ -15,3 +15,5 @@
 * [Detailed Data Analysis & Ensemble Modeling](https://www.kaggle.com/tannercarbonati/detailed-data-analysis-ensemble-modeling)
 * [House Prices: Advanced Regression Techniques](http://datascience.uconn.edu/index.php/projects/students-work/item/86-house-prices-advanced-regression-techniques)
 * [House Prices: Advanced Regression Techniques R](https://rpubs.com/edgetrader/kagglehouseprices)
+* [An uncomplicated model：Top 2% or Top 1%](https://www.kaggle.com/firstbloody/an-uncomplicated-model-top-2-or-top-1)
+* [Neural Network Model for House Prices (TensorFlow)](https://www.kaggle.com/zoupet/neural-network-model-for-house-prices-tensorflow)
